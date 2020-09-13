@@ -42,7 +42,7 @@
 		"p-queue": "^3.0.0",
 		"pouchdb-browser": "^7.0.0",
 		"pouchdb-find": "^7.0.0",
-		"pouchdb-upsert": "^2.2.0",
+		"pouchdb-upsert": "^2.2.0", 
 		"prop-types": "^15.7.2",
 		"prop-types-range": "^0.0.0",
 		"qrcode.react": "^0.8.0",
