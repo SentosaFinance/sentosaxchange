@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; 
 const {is} = require('electron-util');
 const Store = require('electron-store');
 const {minWindowSize} = require('./constants');
