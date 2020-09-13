@@ -1,6 +1,6 @@
 ---
 name: '💸 Add a currency'
-about: 'Get a new currency added to HyperDEX'
+about: 'Get a new currency added to SentosaExchange'
 ---
 
 <!-- -----------^ Click `Preview` for a nicer view! -->
